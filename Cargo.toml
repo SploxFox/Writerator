@@ -2,6 +2,8 @@
 name = "writerator"
 version = "0.1.0"
 edition = "2021"
+description = "Defines a common interface, a Writerator, which is essentially an iterator that is written to instead of read."
+license = "MIT"
 
 [lib]
 
